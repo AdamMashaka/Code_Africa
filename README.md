@@ -10,8 +10,8 @@ AidReach is a decentralized humanitarian aid platform built on the Filecoin Virt
 Email: mashakaadam123@gmail.com
 
 Jaismin Eleah
-Github: Jaismineleah
-email: Jaismineleah@gmail.com
+- Github: Jaismineleah,
+- email: Jaismineleah@gmail.com
 
 ## Technologies Used
 
