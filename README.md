@@ -2,7 +2,7 @@
 
 ## Project Description
 
-AidFlow is a decentralized humanitarian aid platform built on the Filecoin Virtual Machine (FVM) that revolutionizes the distribution of aid during emergencies and crises. It ensures transparency, efficiency, and accountability in aid delivery, making a positive impact on vulnerable communities.
+AidReach is a decentralized humanitarian aid platform built on the Filecoin Virtual Machine (FVM) that revolutionizes the distribution of aid during emergencies and crises. It ensures transparency, efficiency, and accountability in aid delivery, making a positive impact on vulnerable communities.
 
 **Team Members:**
 - Adam .M. Katani
