@@ -1,4 +1,4 @@
-)# Project Name: AidFlow
+ Project Name: AidReach
 
 ## Project Description
 
@@ -8,6 +8,10 @@ AidFlow is a decentralized humanitarian aid platform built on the Filecoin Virtu
 - Adam .M. Katani
 - Github: @AdamMAshaka,
 Email: mashakaadam123@gmail.com
+
+Jaismin Eleah
+Github: Jaismineleah
+email: Jaismineleah@gmail.com
 
 ## Technologies Used
 
