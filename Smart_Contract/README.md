@@ -138,3 +138,4 @@ The following network configurations are defined in the `networkConfig` object:
 The `DEVELOPMENT_NETWORKS` array includes the names of networks considered as development networks. For this project, the "hardhat" and "local-host" networks are considered development networks.
 
 Feel free to clone and explore the repository to see the full implementation of the smart contracts and related tasks.
+ But do not forget to give a star to this repository
